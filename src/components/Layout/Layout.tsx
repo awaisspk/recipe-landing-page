@@ -7,7 +7,7 @@ const StyledLayout = styled('main', {
   mt: '30px',
   minH: '100vh',
   display: 'grid',
-  gridTemplateRows: '100px auto 40px',
+  gridTemplateRows: 'auto 40px',
 });
 
 type LayoutProps = {
